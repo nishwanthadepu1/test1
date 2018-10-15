@@ -1,2 +1,2 @@
 this is home page in gittest project
-welcome to home page
+welcome to home page in project2
